@@ -1,0 +1,18 @@
+{
+  "name": "chainguard",
+  "version": "1.0.0",
+  "description": "Digital asset proof of ownership distributed-system.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "author": "marinalexandru",
+  "license": "MIT",
+  "dependencies": {
+    "bn-chai": "^1.0.1",
+    "chai": "4.2.0",
+    "chai-as-promised": "7.1.1",
+    "truffle-hdwallet-provider": "^1.0.0-web3one.0",
+    "zeppelin-solidity": "1.12.0"
+  }
+}
